@@ -58,19 +58,15 @@ class _TodoPageState extends State<TodoPage> {
               unselectedIconTheme: IconThemeData(color: Colors.white),
               items: <BottomNavigationBarItem>[
                 BottomNavigationBarItem(
-                  title: Text('Tarefas'),
+                  label: 'Tarefas',
                   icon: Icon(Icons.wb_incandescent),
                 ),
                 BottomNavigationBarItem(
-                    title: Text('Concluídas'), icon: Icon(Icons.border_color)),
+                    label:'Concluídas', icon: Icon(Icons.border_color)),
               ]);
         }),
-        body: ListView(
-          children: <Widget>[
-            Observer(builder: (_) {
-              return controllerTodo.atualBody;
-            }),
-          ],
-        ));
+        body: Observer(builder: (_) {
+          return controllerTodo.atualBody;
+        }));
   }
 }

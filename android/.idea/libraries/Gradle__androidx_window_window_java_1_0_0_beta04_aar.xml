@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.window:window-java:1.0.0-beta04@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f132ef84a84c2a1766cc422825ee4e14/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f132ef84a84c2a1766cc422825ee4e14/transformed/jetified-window-java-1.0.0-beta04/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f132ef84a84c2a1766cc422825ee4e14/transformed/jetified-window-java-1.0.0-beta04/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/650027c820cb2e9e64d00aa86c66fc81/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/650027c820cb2e9e64d00aa86c66fc81/transformed/jetified-window-java-1.0.0-beta04/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/650027c820cb2e9e64d00aa86c66fc81/transformed/jetified-window-java-1.0.0-beta04/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.window/window-java/1.0.0-beta04/aebe0d5dd92117437900757652f05fd10dc45382/window-java-1.0.0-beta04-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

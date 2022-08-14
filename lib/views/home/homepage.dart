@@ -1,4 +1,5 @@
 import 'package:app_demonster/controllers/homepage/home_controller.dart';
+import 'package:app_demonster/views/todoPage/todoPage.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';
 import 'package:mobx/mobx.dart';
@@ -330,29 +331,38 @@ class _HomePageState extends State<HomePage> {
                 return Row(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: <Widget>[
-                    GestureDetector(
-                      onTap: controllerHome.validateText,
-                      child: Container(
-                        width: 140,
-                        decoration: BoxDecoration(
-                            border: Border.all(color: Colors.black)),
-                        child: Padding(
-                          padding: const EdgeInsets.all(8.0),
-                          child: Row(
-                              mainAxisAlignment: MainAxisAlignment.center,
-                              children: <Widget>[
-                                controllerHome.loginAwait == true
-                                    ? CircularProgressIndicator()
-                                    : Text(
-                                        'Fazer Login',
-                                        style: TextStyle(
-                                            fontWeight: FontWeight.bold,
-                                            fontSize: 20,
-                                            color: Colors.purple[800]),
-                                      )
-                              ]),
+                    Column(
+                      children: [
+                        GestureDetector(
+                          onTap: () {
+                            Navigator.push(context, MaterialPageRoute(builder: (context){
+                              return TodoPage();
+                            }));
+                          },
+                          child: Container(
+                            width: 140,
+                            decoration: BoxDecoration(
+                                border: Border.all(color: Colors.black)),
+                            child: Padding(
+                              padding: const EdgeInsets.all(8.0),
+                              child: Row(
+                                  mainAxisAlignment: MainAxisAlignment.center,
+                                  children: <Widget>[
+                                    controllerHome.loginAwait == true
+                                        ? CircularProgressIndicator()
+                                        : Text(
+                                            'Fazer Login',
+                                            style: TextStyle(
+                                                fontWeight: FontWeight.bold,
+                                                fontSize: 20,
+                                                color: Colors.purple[800]),
+                                          )
+                                  ]),
+                            ),
+                          ),
                         ),
-                      ),
+                        Text("(próxima tela)")
+                      ],
                     ),
                   ],
                 );

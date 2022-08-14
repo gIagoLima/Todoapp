@@ -90,8 +90,7 @@ abstract class _HomeController with Store {
   void validateText() {
     if (emailText.contains('@') && senhaText.length > 4) {
       loginAwait = true;
-      print(loginAwait);
-      print(emailText);
+      
       Timer(Duration(seconds: 2), () {
         loginAwait = false;
         loginAprovate = true;

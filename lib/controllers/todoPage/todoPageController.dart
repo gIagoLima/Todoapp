@@ -1,3 +1,5 @@
+import 'package:app_demonster/models/novaTarefa.dart';
+import 'package:app_demonster/views/tarefa/tarefaPage.dart';
 import 'package:flutter/material.dart';
 import 'package:mobx/mobx.dart';
 
@@ -15,5 +17,5 @@ abstract class _TodoController with Store {
   }
 
   @observable
-  Widget atualBody = Container();
+  Widget atualBody = TarefaPage();
 }

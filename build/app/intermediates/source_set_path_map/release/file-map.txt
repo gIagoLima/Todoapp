@@ -1,0 +1,14 @@
+com.example.app_demonster.app-core-1.6.0-0 C:\Users\iagol\.gradle\caches\transforms-3\0c089cfaa896ab3efcdc8db1e8d9b237\transformed\core-1.6.0\res
+com.example.app_demonster.app-jetified-annotation-experimental-1.1.0-1 C:\Users\iagol\.gradle\caches\transforms-3\2c2062e4181376da79bb6bd3bd6b655c\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.app_demonster.app-jetified-window-java-1.0.0-beta04-2 C:\Users\iagol\.gradle\caches\transforms-3\650027c820cb2e9e64d00aa86c66fc81\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.app_demonster.app-jetified-window-1.0.0-beta04-3 C:\Users\iagol\.gradle\caches\transforms-3\debc3abd145fdd340fff61a4af1f834b\transformed\jetified-window-1.0.0-beta04\res
+com.example.app_demonster.app-main-4 C:\flutter\todoapp\android\app\src\main\res
+com.example.app_demonster.app-release-5 C:\flutter\todoapp\android\app\src\release\res
+com.example.app_demonster.app-pngs-6 C:\flutter\todoapp\build\app\generated\res\pngs\release
+com.example.app_demonster.app-resValues-7 C:\flutter\todoapp\build\app\generated\res\resValues\release
+com.example.app_demonster.app-rs-8 C:\flutter\todoapp\build\app\generated\res\rs\release
+com.example.app_demonster.app-mergeReleaseResources-9 C:\flutter\todoapp\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.app_demonster.app-mergeReleaseResources-10 C:\flutter\todoapp\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.app_demonster.app-merged_res-11 C:\flutter\todoapp\build\app\intermediates\merged_res\release
+com.example.app_demonster.app-packaged_res-12 C:\flutter\todoapp\build\path_provider\intermediates\packaged_res\release
+com.example.app_demonster.app-packaged_res-13 C:\flutter\todoapp\build\sqflite\intermediates\packaged_res\release

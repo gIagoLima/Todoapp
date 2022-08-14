@@ -1,0 +1,12 @@
+io.flutter.plugins.pathprovider.path_provider-core-1.6.0-0 C:\Users\iagol\.gradle\caches\transforms-3\0c089cfaa896ab3efcdc8db1e8d9b237\transformed\core-1.6.0\res
+io.flutter.plugins.pathprovider.path_provider-jetified-annotation-experimental-1.1.0-1 C:\Users\iagol\.gradle\caches\transforms-3\2c2062e4181376da79bb6bd3bd6b655c\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.pathprovider.path_provider-jetified-window-java-1.0.0-beta04-2 C:\Users\iagol\.gradle\caches\transforms-3\650027c820cb2e9e64d00aa86c66fc81\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.pathprovider.path_provider-jetified-window-1.0.0-beta04-3 C:\Users\iagol\.gradle\caches\transforms-3\debc3abd145fdd340fff61a4af1f834b\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.pathprovider.path_provider-main-4 C:\flutter-sdk\flutter_windows_2.10.5-stable\flutter\.pub-cache\hosted\pub.dartlang.org\path_provider-1.6.28\android\src\main\res
+io.flutter.plugins.pathprovider.path_provider-release-5 C:\flutter-sdk\flutter_windows_2.10.5-stable\flutter\.pub-cache\hosted\pub.dartlang.org\path_provider-1.6.28\android\src\release\res
+io.flutter.plugins.pathprovider.path_provider-pngs-6 C:\flutter\todoapp\build\path_provider\generated\res\pngs\release
+io.flutter.plugins.pathprovider.path_provider-resValues-7 C:\flutter\todoapp\build\path_provider\generated\res\resValues\release
+io.flutter.plugins.pathprovider.path_provider-rs-8 C:\flutter\todoapp\build\path_provider\generated\res\rs\release
+io.flutter.plugins.pathprovider.path_provider-mergeReleaseResources-9 C:\flutter\todoapp\build\path_provider\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.pathprovider.path_provider-mergeReleaseResources-10 C:\flutter\todoapp\build\path_provider\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.pathprovider.path_provider-merged_res-11 C:\flutter\todoapp\build\path_provider\intermediates\merged_res\release
