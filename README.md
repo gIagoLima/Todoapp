@@ -1,4 +1,4 @@
-# app_demonster
+# Todo_app
 
 Projeto flutter onde usei os seguintes recursos e tecnologias:
 - Animação
